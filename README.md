@@ -1,21 +1,36 @@
-# Create T3 App
+# My First T3 Project - Gallery App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
-## What's next? How do I make an app with this?
-
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
-
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+## Selected tools for this app
 
 - [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
+- [Vercel Postgres](https://vercel.com/docs/storage/vercel-postgres)
+- [Vercel](https://vercel.com/)
+- [PostHog](https://posthog.com)
+- [Upstash](https://upstash.com)
+- [Clerk](https://clerk.com)
+- [Sentry](https://sentry.io)
 - [Drizzle](https://orm.drizzle.team)
 - [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+- [ShadCN UI](https://ui.shadcn.com)
 
-## Learn More
+## Progress 
+
+- [ ] Make it deploy
+- [ ] Scaffold basic UI with mock data
+- [ ] Actually setup a database (Vercel postgres)
+- [ ] Attach database to UI
+- [ ] Add authentication (Clerk)
+- [ ] Add image upload
+- [ ] Error management (Sentry)
+- [ ] Routing/image page (Parallel route)
+- [ ] Delete button (Server Actions)
+- [ ] Analytics (Posthog)
+- [ ] Ratelimiting (Upstash)
+
+
+
 
 To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
 
