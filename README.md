@@ -5,8 +5,9 @@ This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3
 ## Selected tools for this app
 
 - [Next.js](https://nextjs.org)
-- [Vercel Postgres](https://vercel.com/docs/storage/vercel-postgres)
 - [Vercel](https://vercel.com/)
+- [Vercel Postgres](https://vercel.com/docs/storage/vercel-postgres)
+- [Uploadthing](https://uploadthing.com)
 - [PostHog](https://posthog.com)
 - [Upstash](https://upstash.com)
 - [Clerk](https://clerk.com)
@@ -17,8 +18,8 @@ This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3
 
 ## Progress 
 
-- [ ] Make it deploy
-- [ ] Scaffold basic UI with mock data
+- [x] Make it deploy
+- [x] Scaffold basic UI with mock data
 - [ ] Actually setup a database (Vercel postgres)
 - [ ] Attach database to UI
 - [ ] Add authentication (Clerk)
