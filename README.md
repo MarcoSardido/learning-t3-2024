@@ -20,6 +20,7 @@ This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3
 
 - [x] Make it deploy
 - [x] Scaffold basic UI with mock data
+- [x] Tidy build process
 - [ ] Actually setup a database (Vercel postgres)
 - [ ] Attach database to UI
 - [ ] Add authentication (Clerk)
