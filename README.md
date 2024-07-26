@@ -23,7 +23,7 @@ This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3
 - [x] Tidy build process
 - [x] Actually setup a database (Vercel postgres)
 - [x] Attach database to UI
-- [ ] Add authentication (Clerk)
+- [x] Add authentication (Clerk)
 - [ ] Add image upload
 - [ ] Error management (Sentry)
 - [ ] Routing/image page (Parallel route)
